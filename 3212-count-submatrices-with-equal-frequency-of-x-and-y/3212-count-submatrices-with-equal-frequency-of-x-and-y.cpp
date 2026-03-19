@@ -5,7 +5,7 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        int cnt = 0;  // ✅ FIX: initialized counter
+        int cnt = 0;  
 
         vector<vector<int>> sum(m, vector<int>(n, 0));
         vector<vector<int>> xcnt(m, vector<int>(n, 0));
