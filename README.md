@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0415-add-strings) |
 | [1768-merge-strings-alternately](https://github.com/tejasree822/Leetcode-solns/tree/master/1768-merge-strings-alternately) |
+| [2833-furthest-point-from-origin](https://github.com/tejasree822/Leetcode-solns/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Binary Search
 |  |
@@ -105,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/2248-intersection-of-multiple-arrays) |
+| [2833-furthest-point-from-origin](https://github.com/tejasree822/Leetcode-solns/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
