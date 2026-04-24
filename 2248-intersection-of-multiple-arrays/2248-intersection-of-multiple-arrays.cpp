@@ -1,28 +1,26 @@
 class Solution {
 public:
     vector<int> intersection(vector<vector<int>>& nums) {
-        unordered_map<int, int> counts;
-        int n = nums.size();
-        
-        for (int i = 0; i < n; i++) {
-            
-            unordered_set<int> uniqueInRow(nums[i].begin(), nums[i].end());
-            
-            for (int x : uniqueInRow) {
-                counts[x]++;
+       int count[1001] = {0}; // Fixed range O(1) space relative to N
+    int n = nums.size();
+    
+    for (const auto& row : nums) {
+        // Use a boolean array to handle duplicates within a single row
+        bool seenInRow[1001] = {false};
+        for (int x : row) {
+            if (!seenInRow[x]) {
+                count[x]++;
+                seenInRow[x] = true;
             }
         }
+    }
 
-        vector<int> result;
-        for (auto const& [val, freq] : counts) {
-            
-            if (freq == n) {
-                result.push_back(val);
-            }
+    vector<int> result;
+    for (int i = 0; i <= 1000; i++) { // Linear scan of the range
+        if (count[i] == n) {
+            result.push_back(i);
         }
-
-        // Sort only once at the very end
-        sort(result.begin(), result.end());
-        return result;
+    }
+    return result; // Already sorted!
     }
 };
