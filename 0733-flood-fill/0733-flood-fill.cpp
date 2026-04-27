@@ -20,7 +20,7 @@ visited[r][c] = true;
         int nextRow = r + dr[i];
         int nextCol = c + dc[i];
         if (isValid(nextRow, nextCol, m, n, image, visited))
-            solve(nextRow, nextCol, image, visited, sr, sc, color, k);
+            solve(nextRow, nextCol, image, visited, r, c, color, k);
     }
 }
    }
