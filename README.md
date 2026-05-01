@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tejasree822/Leetcode-solns/tree/master/0027-remove-element) |
 | [0130-surrounded-regions](https://github.com/tejasree822/Leetcode-solns/tree/master/0130-surrounded-regions) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/tejasree822/Leetcode-solns/tree/master/0396-rotate-function) |
 | [0733-flood-fill](https://github.com/tejasree822/Leetcode-solns/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/tejasree822/Leetcode-solns/tree/master/0396-rotate-function) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tejasree822/Leetcode-solns/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejasree822/Leetcode-solns/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tejasree822/Leetcode-solns/tree/master/0258-add-digits) |
+| [0396-rotate-function](https://github.com/tejasree822/Leetcode-solns/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0415-add-strings) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tejasree822/Leetcode-solns/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Simulation
