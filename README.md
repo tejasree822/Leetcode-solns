@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tejasree822/Leetcode-solns/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/tejasree822/Leetcode-solns/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/tejasree822/Leetcode-solns/tree/master/0130-surrounded-regions) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/tejasree822/Leetcode-solns/tree/master/0396-rotate-function) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tejasree822/Leetcode-solns/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/tejasree822/Leetcode-solns/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/tejasree822/Leetcode-solns/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tejasree822/Leetcode-solns/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/tejasree822/Leetcode-solns/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/tejasree822/Leetcode-solns/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0415-add-strings) |
