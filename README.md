@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tejasree822/Leetcode-solns/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/tejasree822/Leetcode-solns/tree/master/0061-rotate-list) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/tejasree822/Leetcode-solns/tree/master/1768-merge-strings-alternately) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejasree822/Leetcode-solns/tree/master/3643-flip-square-submatrix-vertically) |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/tejasree822/Leetcode-solns/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/tejasree822/Leetcode-solns/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
