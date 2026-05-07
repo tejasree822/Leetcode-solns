@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/tejasree822/Leetcode-solns/tree/master/0396-rotate-function) |
 | [0733-flood-fill](https://github.com/tejasree822/Leetcode-solns/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/tejasree822/Leetcode-solns/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tejasree822/Leetcode-solns/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/tejasree822/Leetcode-solns/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/tejasree822/Leetcode-solns/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/tejasree822/Leetcode-solns/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tejasree822/Leetcode-solns/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/tejasree822/Leetcode-solns/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/tejasree822/Leetcode-solns/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/tejasree822/Leetcode-solns/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
