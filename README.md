@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tejasree822/Leetcode-solns/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejasree822/Leetcode-solns/tree/master/3643-flip-square-submatrix-vertically) |
+| [3660-jump-game-ix](https://github.com/tejasree822/Leetcode-solns/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejasree822/Leetcode-solns/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/tejasree822/Leetcode-solns/tree/master/0788-rotated-digits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tejasree822/Leetcode-solns/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3660-jump-game-ix](https://github.com/tejasree822/Leetcode-solns/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejasree822/Leetcode-solns/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Enumeration
 |  |
