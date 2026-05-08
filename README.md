@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tejasree822/Leetcode-solns/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/tejasree822/Leetcode-solns/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/tejasree822/Leetcode-solns/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/tejasree822/Leetcode-solns/tree/master/0130-surrounded-regions) |
 | [0217-contains-duplicate](https://github.com/tejasree822/Leetcode-solns/tree/master/0217-contains-duplicate) |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/tejasree822/Leetcode-solns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0210-course-schedule-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/tejasree822/Leetcode-solns/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
