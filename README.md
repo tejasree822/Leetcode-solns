@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/tejasree822/Leetcode-solns/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1861-rotating-the-box](https://github.com/tejasree822/Leetcode-solns/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tejasree822/Leetcode-solns/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1914-cyclically-rotating-a-grid) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/tejasree822/Leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/tejasree822/Leetcode-solns/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/2248-intersection-of-multiple-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tejasree822/Leetcode-solns/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tejasree822/Leetcode-solns/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/tejasree822/Leetcode-solns/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
