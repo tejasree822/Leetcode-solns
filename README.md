@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/tejasree822/Leetcode-solns/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/tejasree822/Leetcode-solns/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tejasree822/Leetcode-solns/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/tejasree822/Leetcode-solns/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tejasree822/Leetcode-solns/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tejasree822/Leetcode-solns/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/tejasree822/Leetcode-solns/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/2248-intersection-of-multiple-arrays) |
+| [2784-check-if-array-is-good](https://github.com/tejasree822/Leetcode-solns/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tejasree822/Leetcode-solns/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tejasree822/Leetcode-solns/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tejasree822/Leetcode-solns/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2248-intersection-of-multiple-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/2248-intersection-of-multiple-arrays) |
 | [2615-sum-of-distances](https://github.com/tejasree822/Leetcode-solns/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/tejasree822/Leetcode-solns/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Math
