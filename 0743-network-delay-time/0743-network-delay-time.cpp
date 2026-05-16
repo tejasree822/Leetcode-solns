@@ -17,7 +17,7 @@ greater<pair<int,int>>
             int tim=pq.top().first;
             int node=pq.top().second;
             pq.pop();
-           
+           if(tim > dist[node]) continue;
             for(auto it:adj[node]){
             int adjNode=it.first;
             int wt=it.second;
