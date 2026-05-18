@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/tejasree822/Leetcode-solns/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/tejasree822/Leetcode-solns/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/tejasree822/Leetcode-solns/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/tejasree822/Leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
+| [1345-jump-game-iv](https://github.com/tejasree822/Leetcode-solns/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tejasree822/Leetcode-solns/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2248-intersection-of-multiple-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/2248-intersection-of-multiple-arrays) |
 | [2615-sum-of-distances](https://github.com/tejasree822/Leetcode-solns/tree/master/2615-sum-of-distances) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/tejasree822/Leetcode-solns/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/tejasree822/Leetcode-solns/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/tejasree822/Leetcode-solns/tree/master/1631-path-with-minimum-effort) |
