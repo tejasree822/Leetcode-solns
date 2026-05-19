@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/tejasree822/Leetcode-solns/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/tejasree822/Leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejasree822/Leetcode-solns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1345-jump-game-iv](https://github.com/tejasree822/Leetcode-solns/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tejasree822/Leetcode-solns/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2248-intersection-of-multiple-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/2248-intersection-of-multiple-arrays) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/tejasree822/Leetcode-solns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasree822/Leetcode-solns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/tejasree822/Leetcode-solns/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejasree822/Leetcode-solns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tejasree822/Leetcode-solns/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tejasree822/Leetcode-solns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1791-find-center-of-star-graph](https://github.com/tejasree822/Leetcode-solns/tree/master/1791-find-center-of-star-graph) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/tejasree822/Leetcode-solns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasree822/Leetcode-solns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/tejasree822/Leetcode-solns/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejasree822/Leetcode-solns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/tejasree822/Leetcode-solns/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tejasree822/Leetcode-solns/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/tejasree822/Leetcode-solns/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/tejasree822/Leetcode-solns/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tejasree822/Leetcode-solns/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejasree822/Leetcode-solns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tejasree822/Leetcode-solns/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
