@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/tejasree822/Leetcode-solns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasree822/Leetcode-solns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/tejasree822/Leetcode-solns/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/tejasree822/Leetcode-solns/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tejasree822/Leetcode-solns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1791-find-center-of-star-graph](https://github.com/tejasree822/Leetcode-solns/tree/master/1791-find-center-of-star-graph) |
 ## Counting
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/tejasree822/Leetcode-solns/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/tejasree822/Leetcode-solns/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/tejasree822/Leetcode-solns/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/tejasree822/Leetcode-solns/tree/master/1631-path-with-minimum-effort) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/tejasree822/Leetcode-solns/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/tejasree822/Leetcode-solns/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/tejasree822/Leetcode-solns/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tejasree822/Leetcode-solns/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tejasree822/Leetcode-solns/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/tejasree822/Leetcode-solns/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/tejasree822/Leetcode-solns/tree/master/1631-path-with-minimum-effort) |
