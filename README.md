@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/tejasree822/Leetcode-solns/tree/master/0788-rotated-digits) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tejasree822/Leetcode-solns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejasree822/Leetcode-solns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tejasree822/Leetcode-solns/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tejasree822/Leetcode-solns/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3660-jump-game-ix](https://github.com/tejasree822/Leetcode-solns/tree/master/3660-jump-game-ix) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/tejasree822/Leetcode-solns/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tejasree822/Leetcode-solns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1791-find-center-of-star-graph](https://github.com/tejasree822/Leetcode-solns/tree/master/1791-find-center-of-star-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejasree822/Leetcode-solns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Counting
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/tejasree822/Leetcode-solns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/tejasree822/Leetcode-solns/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejasree822/Leetcode-solns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/tejasree822/Leetcode-solns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasree822/Leetcode-solns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tejasree822/Leetcode-solns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejasree822/Leetcode-solns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Biconnected Component
 |  |
 | ------- |
