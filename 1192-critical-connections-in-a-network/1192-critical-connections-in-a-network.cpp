@@ -15,7 +15,7 @@ bridges.push_back({it,node});
              }
             }
             else{
-                 low[node]=min(low[node],low[it]);
+                 low[node]=min(low[node],tim[it]);
             }
         }
     }
