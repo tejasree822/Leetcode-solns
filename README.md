@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tejasree822/Leetcode-solns/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/tejasree822/Leetcode-solns/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/tejasree822/Leetcode-solns/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/tejasree822/Leetcode-solns/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0415-add-strings) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/tejasree822/Leetcode-solns/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tejasree822/Leetcode-solns/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
