@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tejasree822/Leetcode-solns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/tejasree822/Leetcode-solns/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/tejasree822/Leetcode-solns/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/tejasree822/Leetcode-solns/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/tejasree822/Leetcode-solns/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasree822/Leetcode-solns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejasree822/Leetcode-solns/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/tejasree822/Leetcode-solns/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/tejasree822/Leetcode-solns/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tejasree822/Leetcode-solns/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
@@ -345,5 +347,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tejasree822/Leetcode-solns/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tejasree822/Leetcode-solns/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
