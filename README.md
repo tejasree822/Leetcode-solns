@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tejasree822/Leetcode-solns/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/tejasree822/Leetcode-solns/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/tejasree822/Leetcode-solns/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tejasree822/Leetcode-solns/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tejasree822/Leetcode-solns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/tejasree822/Leetcode-solns/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/tejasree822/Leetcode-solns/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejasree822/Leetcode-solns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tejasree822/Leetcode-solns/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tejasree822/Leetcode-solns/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/tejasree822/Leetcode-solns/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0859-buddy-strings) |
 | [1768-merge-strings-alternately](https://github.com/tejasree822/Leetcode-solns/tree/master/1768-merge-strings-alternately) |
+| [1871-jump-game-vii](https://github.com/tejasree822/Leetcode-solns/tree/master/1871-jump-game-vii) |
 | [2833-furthest-point-from-origin](https://github.com/tejasree822/Leetcode-solns/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tejasree822/Leetcode-solns/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tejasree822/Leetcode-solns/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tejasree822/Leetcode-solns/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/tejasree822/Leetcode-solns/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
