@@ -1,7 +1,6 @@
 class Solution {
-public:
-void solve(int index,vector<char>& current,vector<string>& result,string digits,vector<char>& v){
-    vector<string> mp = {
+    private:
+       vector<string> mp = {
     "",     // 0
     "",     // 1
     "abc",  // 2
@@ -13,6 +12,10 @@ void solve(int index,vector<char>& current,vector<string>& result,string digits,
     "tuv",  // 8
     "wxyz"  // 9
 };
+public:
+
+void solve(int index,vector<char>& current,vector<string>& result,string digits,vector<char>& v){
+ 
     if(current.size()==digits.size()){
         string temp(current.begin(), current.end());
        result.push_back(temp);
