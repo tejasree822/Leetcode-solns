@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tejasree822/Leetcode-solns/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/tejasree822/Leetcode-solns/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/tejasree822/Leetcode-solns/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tejasree822/Leetcode-solns/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/tejasree822/Leetcode-solns/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasree822/Leetcode-solns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tejasree822/Leetcode-solns/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/tejasree822/Leetcode-solns/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/tejasree822/Leetcode-solns/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tejasree822/Leetcode-solns/tree/master/0733-flood-fill) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tejasree822/Leetcode-solns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tejasree822/Leetcode-solns/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/tejasree822/Leetcode-solns/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/tejasree822/Leetcode-solns/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tejasree822/Leetcode-solns/tree/master/0131-palindrome-partitioning) |
 | [0415-add-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0415-add-strings) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tejasree822/Leetcode-solns/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/tejasree822/Leetcode-solns/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/tejasree822/Leetcode-solns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0210-course-schedule-ii) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tejasree822/Leetcode-solns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/tejasree822/Leetcode-solns/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tejasree822/Leetcode-solns/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/tejasree822/Leetcode-solns/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/tejasree822/Leetcode-solns/tree/master/0216-combination-sum-iii) |
