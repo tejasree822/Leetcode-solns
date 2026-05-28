@@ -14,18 +14,18 @@ class Solution {
 };
 public:
 
-void solve(int index,vector<char>& current,vector<string>& result,string digits,vector<char>& v){
+void solve(int index,string& current,vector<string>& result,string digits){
  
     if(current.size()==digits.size()){
-        string temp(current.begin(), current.end());
-       result.push_back(temp);
+        
+       result.push_back(current);
      
             return;
  }
 
-     for(int i=0;i<(mp[v[index]-'0']).size();i++){
-        current.push_back(mp[v[index]-'0'][i]);
-        solve(index+1,current,result,digits,v);
+     for(int i=0;i<(mp[digits[index]-'0']).size();i++){
+        current.push_back(mp[digits[index]-'0'][i]);
+        solve(index+1,current,result,digits);
         current.pop_back();
 
      }
@@ -33,11 +33,11 @@ void solve(int index,vector<char>& current,vector<string>& result,string digits,
 
 }
     vector<string> letterCombinations(string digits) {
-        vector<char> current;
+        string current = "";
         vector<string> result;
-        vector<char> v(digits.begin(),digits.end());
+       
 
-        solve(0,current,result,digits,v);
+        solve(0,current,result,digits);
         return result;
     }
 };
