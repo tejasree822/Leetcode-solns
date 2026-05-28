@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tejasree822/Leetcode-solns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/tejasree822/Leetcode-solns/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/tejasree822/Leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tejasree822/Leetcode-solns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tejasree822/Leetcode-solns/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/tejasree822/Leetcode-solns/tree/master/0127-word-ladder) |
 | [0415-add-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0415-add-strings) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tejasree822/Leetcode-solns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tejasree822/Leetcode-solns/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/tejasree822/Leetcode-solns/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0040-combination-sum-ii) |
