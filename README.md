@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejasree822/Leetcode-solns/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/tejasree822/Leetcode-solns/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/tejasree822/Leetcode-solns/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasree822/Leetcode-solns/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tejasree822/Leetcode-solns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tejasree822/Leetcode-solns/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/tejasree822/Leetcode-solns/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/tejasree822/Leetcode-solns/tree/master/0131-palindrome-partitioning) |
 | [0415-add-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0415-add-strings) |
 | [0721-accounts-merge](https://github.com/tejasree822/Leetcode-solns/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/tejasree822/Leetcode-solns/tree/master/0796-rotate-string) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tejasree822/Leetcode-solns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/tejasree822/Leetcode-solns/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/tejasree822/Leetcode-solns/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/tejasree822/Leetcode-solns/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tejasree822/Leetcode-solns/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
