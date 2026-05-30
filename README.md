@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/2906-construct-product-matrix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tejasree822/Leetcode-solns/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/tejasree822/Leetcode-solns/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/tejasree822/Leetcode-solns/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tejasree822/Leetcode-solns/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tejasree822/Leetcode-solns/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tejasree822/Leetcode-solns/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/tejasree822/Leetcode-solns/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/tejasree822/Leetcode-solns/tree/master/1631-path-with-minimum-effort) |
 | [2540-minimum-common-value](https://github.com/tejasree822/Leetcode-solns/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/tejasree822/Leetcode-solns/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tejasree822/Leetcode-solns/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejasree822/Leetcode-solns/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Graph Theory
@@ -388,4 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/tejasree822/Leetcode-solns/tree/master/1871-jump-game-vii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/tejasree822/Leetcode-solns/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/tejasree822/Leetcode-solns/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
