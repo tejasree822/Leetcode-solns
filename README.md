@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tejasree822/Leetcode-solns/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tejasree822/Leetcode-solns/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/tejasree822/Leetcode-solns/tree/master/0258-add-digits) |
+| [0282-expression-add-operators](https://github.com/tejasree822/Leetcode-solns/tree/master/0282-expression-add-operators) |
 | [0396-rotate-function](https://github.com/tejasree822/Leetcode-solns/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0415-add-strings) |
 | [0788-rotated-digits](https://github.com/tejasree822/Leetcode-solns/tree/master/0788-rotated-digits) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tejasree822/Leetcode-solns/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/tejasree822/Leetcode-solns/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tejasree822/Leetcode-solns/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/tejasree822/Leetcode-solns/tree/master/0282-expression-add-operators) |
 | [0415-add-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0415-add-strings) |
 | [0721-accounts-merge](https://github.com/tejasree822/Leetcode-solns/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/tejasree822/Leetcode-solns/tree/master/0796-rotate-string) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/tejasree822/Leetcode-solns/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/tejasree822/Leetcode-solns/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/tejasree822/Leetcode-solns/tree/master/0282-expression-add-operators) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tejasree822/Leetcode-solns/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
