@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejasree822/Leetcode-solns/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/tejasree822/Leetcode-solns/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/tejasree822/Leetcode-solns/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/tejasree822/Leetcode-solns/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/0542-01-matrix) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tejasree822/Leetcode-solns/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tejasree822/Leetcode-solns/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/tejasree822/Leetcode-solns/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/tejasree822/Leetcode-solns/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/tejasree822/Leetcode-solns/tree/master/0282-expression-add-operators) |
 | [0396-rotate-function](https://github.com/tejasree822/Leetcode-solns/tree/master/0396-rotate-function) |
@@ -433,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/tejasree822/Leetcode-solns/tree/master/3161-block-placement-queries) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tejasree822/Leetcode-solns/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
