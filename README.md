@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejasree822/Leetcode-solns/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tejasree822/Leetcode-solns/tree/master/2553-separate-the-digits-in-an-array) |
+| [3614-process-string-with-special-operations-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/3614-process-string-with-special-operations-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejasree822/Leetcode-solns/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tejasree822/Leetcode-solns/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3614-process-string-with-special-operations-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/3614-process-string-with-special-operations-ii) |
 ## Binary Search
 |  |
 | ------- |
