@@ -3,19 +3,22 @@ public:
 
     int rob(vector<int>& nums) {
         int n=nums.size();
-    
-        vector<int> dp(n,-1);
-        dp[0]=nums[0];
-        int neg=0;
+      int previ=nums[0];
+      int prev2i=0;
+
+
         for(int i=1;i<n;i++){
             
             int take=nums[i];
-            if(i>1) take+=dp[i-2];
+            if(i>1) take+=prev2i;
            
-            int nottake=dp[i-1];
-            dp[i]=max(take,nottake);
+            int nottake=previ;
+            int curri=max(take,nottake);
+            prev2i=previ;
+            previ=curri;
+            
         }
-        return dp[n-1];
+        return previ;
 
      }
 };
