@@ -3,24 +3,25 @@ public:
 
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n=matrix.size();
-        vector<vector<int>> dp(n,vector<int>(n,-1));
+        vector<int> prev(n),curr(n);
        for(int j=0;j<n;j++){
-        dp[0][j]=matrix[0][j];
+        prev[j]=matrix[0][j];
        }
      
        for(int i=1;i<n;i++){
         for(int j=0;j<n;j++){
             int ld=INT_MAX;
             int rd=INT_MAX;
-            if(j>0) ld=dp[i-1][j-1];
-             int s=dp[i-1][j];
-            if(j<n-1) rd=dp[i-1][j+1];
-            dp[i][j]=min({ld,s,rd})+matrix[i][j];
+            if(j>0) ld=prev[j-1];
+             int s=prev[j];
+            if(j<n-1) rd=prev[j+1];
+            curr[j]=min({ld,s,rd})+matrix[i][j];
         }
+        prev=curr;
        }
-       int mini=dp[n-1][0];
+       int mini=prev[0];
        for(int j=0;j<n;j++){
-        mini=min(mini,dp[n-1][j]);
+        mini=min(mini,prev[j]);
        }
        return mini;
     }
