@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejasree822/Leetcode-solns/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/tejasree822/Leetcode-solns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tejasree822/Leetcode-solns/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/tejasree822/Leetcode-solns/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/tejasree822/Leetcode-solns/tree/master/0198-house-robber) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tejasree822/Leetcode-solns/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tejasree822/Leetcode-solns/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/tejasree822/Leetcode-solns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tejasree822/Leetcode-solns/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/tejasree822/Leetcode-solns/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/tejasree822/Leetcode-solns/tree/master/0282-expression-add-operators) |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejasree822/Leetcode-solns/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tejasree822/Leetcode-solns/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
