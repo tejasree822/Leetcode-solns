@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/tejasree822/Leetcode-solns/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasree822/Leetcode-solns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/tejasree822/Leetcode-solns/tree/master/0788-rotated-digits) |
 | [0931-minimum-falling-path-sum](https://github.com/tejasree822/Leetcode-solns/tree/master/0931-minimum-falling-path-sum) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tejasree822/Leetcode-solns/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/tejasree822/Leetcode-solns/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/tejasree822/Leetcode-solns/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/tejasree822/Leetcode-solns/tree/master/0796-rotate-string) |
