@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/tejasree822/Leetcode-solns/tree/master/0788-rotated-digits) |
 | [0931-minimum-falling-path-sum](https://github.com/tejasree822/Leetcode-solns/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/tejasree822/Leetcode-solns/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejasree822/Leetcode-solns/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tejasree822/Leetcode-solns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/tejasree822/Leetcode-solns/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/tejasree822/Leetcode-solns/tree/master/0917-reverse-only-letters) |
 | [1143-longest-common-subsequence](https://github.com/tejasree822/Leetcode-solns/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/tejasree822/Leetcode-solns/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejasree822/Leetcode-solns/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/tejasree822/Leetcode-solns/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/tejasree822/Leetcode-solns/tree/master/1871-jump-game-vii) |
 | [2833-furthest-point-from-origin](https://github.com/tejasree822/Leetcode-solns/tree/master/2833-furthest-point-from-origin) |
