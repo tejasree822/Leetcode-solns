@@ -1,24 +1,21 @@
 class Solution {
 public:
-int f(int i,int tno,int n,vector<int>& prices,vector<vector<int>>& dp){
-    if(i==n||tno==4){
-        return 0;
-    }
-    if(dp[i][tno]!=-1) return dp[i][tno];
-    if(tno%2==0){
-        return dp[i][tno]=max(-prices[i]+f(i+1,tno+1,n,prices,dp),f(i+1,tno,n,prices,dp));
-    }
-    else{
-        return dp[i][tno]=max(prices[i]+f(i+1,tno+1,n,prices,dp),f(i+1,tno,n,prices,dp));
-    }
-    return 0;
 
-}
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        vector<vector<int>> dp(n,vector<int>(4,-1));
+        vector<vector<int>> dp(n+1,vector<int>(5,0));
+        for(int i=n-1;i>=0;i--){
+            for(int tno=0;tno<=3;tno++){
+                if(tno%2==0){
+        dp[i][tno]=max(-prices[i]+dp[i+1][tno+1],dp[i+1][tno]);
+    }
+    else{
+        dp[i][tno]=max(prices[i]+dp[i+1][tno+1],dp[i+1][tno]);
+    }
+            }
+        }
 
-        return f(0,0,n,prices,dp);
+        return dp[0][0];
 
     }
 };
