@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/tejasree822/Leetcode-solns/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/tejasree822/Leetcode-solns/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/tejasree822/Leetcode-solns/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/tejasree822/Leetcode-solns/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/tejasree822/Leetcode-solns/tree/master/1340-jump-game-v) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/tejasree822/Leetcode-solns/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/tejasree822/Leetcode-solns/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/tejasree822/Leetcode-solns/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/tejasree822/Leetcode-solns/tree/master/1048-longest-string-chain) |
 | [1340-jump-game-v](https://github.com/tejasree822/Leetcode-solns/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/tejasree822/Leetcode-solns/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/tejasree822/Leetcode-solns/tree/master/1833-maximum-ice-cream-bars) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tejasree822/Leetcode-solns/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/tejasree822/Leetcode-solns/tree/master/0917-reverse-only-letters) |
+| [1048-longest-string-chain](https://github.com/tejasree822/Leetcode-solns/tree/master/1048-longest-string-chain) |
 | [1768-merge-strings-alternately](https://github.com/tejasree822/Leetcode-solns/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/tejasree822/Leetcode-solns/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tejasree822/Leetcode-solns/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasree822/Leetcode-solns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/tejasree822/Leetcode-solns/tree/master/0788-rotated-digits) |
 | [0931-minimum-falling-path-sum](https://github.com/tejasree822/Leetcode-solns/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/tejasree822/Leetcode-solns/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/tejasree822/Leetcode-solns/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/tejasree822/Leetcode-solns/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejasree822/Leetcode-solns/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/tejasree822/Leetcode-solns/tree/master/0721-accounts-merge) |
 | [0859-buddy-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0859-buddy-strings) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/tejasree822/Leetcode-solns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1048-longest-string-chain](https://github.com/tejasree822/Leetcode-solns/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/tejasree822/Leetcode-solns/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/tejasree822/Leetcode-solns/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tejasree822/Leetcode-solns/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/tejasree822/Leetcode-solns/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/tejasree822/Leetcode-solns/tree/master/0917-reverse-only-letters) |
+| [1048-longest-string-chain](https://github.com/tejasree822/Leetcode-solns/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/tejasree822/Leetcode-solns/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/tejasree822/Leetcode-solns/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/tejasree822/Leetcode-solns/tree/master/1189-maximum-number-of-balloons) |
