@@ -38,6 +38,7 @@ public:
                }
                 pq.push({dist[nr][nc],{nr,nc}});
                
+               
            }
         }
         
