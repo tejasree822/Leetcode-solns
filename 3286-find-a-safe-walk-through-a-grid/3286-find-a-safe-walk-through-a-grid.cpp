@@ -34,8 +34,9 @@ public:
                int newsafe=safe+grid[nr][nc];
                if(newsafe<dist[nr][nc]){
                 dist[nr][nc]=newsafe;
-                pq.push({dist[nr][nc],{nr,nc}});
+               
                }
+                pq.push({dist[nr][nc],{nr,nc}});
                
            }
         }
