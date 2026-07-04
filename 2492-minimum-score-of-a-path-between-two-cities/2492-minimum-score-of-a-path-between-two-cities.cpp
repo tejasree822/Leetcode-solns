@@ -14,7 +14,7 @@ public:
         while(!q.empty()){
             int node=q.front();
             q.pop();
-            for(auto it:adj[node]){
+            for(const auto &it:adj[node]){
                  int v=it.first;
         int dis=it.second;
       mini=min(mini,dis);
