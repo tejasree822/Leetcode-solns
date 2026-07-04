@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/tejasree822/Leetcode-solns/tree/master/0917-reverse-only-letters) |
 | [1048-longest-string-chain](https://github.com/tejasree822/Leetcode-solns/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/tejasree822/Leetcode-solns/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/tejasree822/Leetcode-solns/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/tejasree822/Leetcode-solns/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/tejasree822/Leetcode-solns/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejasree822/Leetcode-solns/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/tejasree822/Leetcode-solns/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/tejasree822/Leetcode-solns/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tejasree822/Leetcode-solns/tree/master/0206-reverse-linked-list) |
+| [1106-parsing-a-boolean-expression](https://github.com/tejasree822/Leetcode-solns/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/tejasree822/Leetcode-solns/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
@@ -573,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/tejasree822/Leetcode-solns/tree/master/1833-maximum-ice-cream-bars) |
+## Stack
+|  |
+| ------- |
+| [1106-parsing-a-boolean-expression](https://github.com/tejasree822/Leetcode-solns/tree/master/1106-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
