@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tejasree822/Leetcode-solns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1791-find-center-of-star-graph](https://github.com/tejasree822/Leetcode-solns/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejasree822/Leetcode-solns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tejasree822/Leetcode-solns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/tejasree822/Leetcode-solns/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tejasree822/Leetcode-solns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/tejasree822/Leetcode-solns/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tejasree822/Leetcode-solns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/tejasree822/Leetcode-solns/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tejasree822/Leetcode-solns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String Matching
 |  |
