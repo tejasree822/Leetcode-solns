@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/tejasree822/Leetcode-solns/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/tejasree822/Leetcode-solns/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/tejasree822/Leetcode-solns/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/tejasree822/Leetcode-solns/tree/master/1631-path-with-minimum-effort) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/tejasree822/Leetcode-solns/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/tejasree822/Leetcode-solns/tree/master/1048-longest-string-chain) |
 | [1340-jump-game-v](https://github.com/tejasree822/Leetcode-solns/tree/master/1340-jump-game-v) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/tejasree822/Leetcode-solns/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/tejasree822/Leetcode-solns/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/tejasree822/Leetcode-solns/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/tejasree822/Leetcode-solns/tree/master/2126-destroying-asteroids) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejasree822/Leetcode-solns/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tejasree822/Leetcode-solns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/tejasree822/Leetcode-solns/tree/master/1340-jump-game-v) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/tejasree822/Leetcode-solns/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/tejasree822/Leetcode-solns/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/tejasree822/Leetcode-solns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
