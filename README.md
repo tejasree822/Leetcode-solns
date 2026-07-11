@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/tejasree822/Leetcode-solns/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/tejasree822/Leetcode-solns/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/tejasree822/Leetcode-solns/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-jump-game-iii](https://github.com/tejasree822/Leetcode-solns/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/tejasree822/Leetcode-solns/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/tejasree822/Leetcode-solns/tree/master/1345-jump-game-iv) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/tejasree822/Leetcode-solns/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tejasree822/Leetcode-solns/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/tejasree822/Leetcode-solns/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tejasree822/Leetcode-solns/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/tejasree822/Leetcode-solns/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/tejasree822/Leetcode-solns/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/tejasree822/Leetcode-solns/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/tejasree822/Leetcode-solns/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejasree822/Leetcode-solns/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tejasree822/Leetcode-solns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/tejasree822/Leetcode-solns/tree/master/1340-jump-game-v) |
