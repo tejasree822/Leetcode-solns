@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tejasree822/Leetcode-solns/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/tejasree822/Leetcode-solns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/tejasree822/Leetcode-solns/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejasree822/Leetcode-solns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/tejasree822/Leetcode-solns/tree/master/0207-course-schedule) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejasree822/Leetcode-solns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tejasree822/Leetcode-solns/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/tejasree822/Leetcode-solns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejasree822/Leetcode-solns/tree/master/0144-binary-tree-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/tejasree822/Leetcode-solns/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
@@ -600,9 +602,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tejasree822/Leetcode-solns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejasree822/Leetcode-solns/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tejasree822/Leetcode-solns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tejasree822/Leetcode-solns/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
