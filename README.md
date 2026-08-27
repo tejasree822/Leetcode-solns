@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/tejasree822/Leetcode-solns/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tejasree822/Leetcode-solns/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasree822/Leetcode-solns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/tejasree822/Leetcode-solns/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejasree822/Leetcode-solns/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasree822/Leetcode-solns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/tejasree822/Leetcode-solns/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tejasree822/Leetcode-solns/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3614-process-string-with-special-operations-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/3614-process-string-with-special-operations-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasree822/Leetcode-solns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/tejasree822/Leetcode-solns/tree/master/2029-stone-game-ix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/tejasree822/Leetcode-solns/tree/master/2248-intersection-of-multiple-arrays) |
 | [2833-furthest-point-from-origin](https://github.com/tejasree822/Leetcode-solns/tree/master/2833-furthest-point-from-origin) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasree822/Leetcode-solns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Geometry
 |  |
 | ------- |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tejasree822/Leetcode-solns/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tejasree822/Leetcode-solns/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasree822/Leetcode-solns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
