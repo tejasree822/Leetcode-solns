@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/tejasree822/Leetcode-solns/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tejasree822/Leetcode-solns/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/tejasree822/Leetcode-solns/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/tejasree822/Leetcode-solns/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejasree822/Leetcode-solns/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/tejasree822/Leetcode-solns/tree/master/0415-add-strings) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/tejasree822/Leetcode-solns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tejasree822/Leetcode-solns/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/tejasree822/Leetcode-solns/tree/master/0721-accounts-merge) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/tejasree822/Leetcode-solns/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/tejasree822/Leetcode-solns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasree822/Leetcode-solns/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/tejasree822/Leetcode-solns/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/tejasree822/Leetcode-solns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tejasree822/Leetcode-solns/tree/master/0547-number-of-provinces) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/tejasree822/Leetcode-solns/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/tejasree822/Leetcode-solns/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/tejasree822/Leetcode-solns/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/tejasree822/Leetcode-solns/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -713,4 +718,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejasree822/Leetcode-solns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tejasree822/Leetcode-solns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tejasree822/Leetcode-solns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
